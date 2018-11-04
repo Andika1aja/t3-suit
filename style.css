@@ -1,0 +1,42 @@
+#header{
+    height: auto;
+    width: 500px;
+    background: red;
+    border-radius: 50px;
+    color: brown;
+}
+
+#main{
+    height: auto;
+    width: 500px;
+    background: blueviolet;
+    border-radius: 50px;
+    color: brown;
+}
+
+#computer{
+    height: auto;
+    width: 500px;
+    background: orange;
+    border-radius: 50px;
+    color: brown;
+}
+
+#info{
+    height: auto;
+    width: 500px;
+    border: 1px solid black;
+    background: greenyellow;
+    border-radius: 50px;
+    color: brown;
+}
+
+#your{
+    height: auto;
+    width: 500px;
+    background: violet;
+    border-radius: 50px;
+    color: brown;
+}
+
+
